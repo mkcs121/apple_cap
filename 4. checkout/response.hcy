@@ -1,0 +1,17 @@
+h2 200
+server: Apple
+content-length: 51
+content-type: application/json
+set-cookie: as_rumid=f37d5826-14bd-4032-8bf6-f889d33a3d14; Path=/; Domain=.apple.com; Max-Age=1800; Expires=Mon, 05 Oct 2026 12:16:47 GMT; Secure; HttpOnly; SameSite=Strict
+access-control-allow-origin: https://secure8.store.apple.com
+cross-origin-opener-policy: same-origin
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=31536000; includeSubdomains
+access-control-allow-credentials: true
+cache-control: max-age=300
+expires: Mon, 05 Oct 2026 11:51:47 GMT
+date: Mon, 05 Oct 2026 11:46:47 GMT
+
+{"clientId":"f37d5826-14bd-4032-8bf6-f889d33a3d14"}

@@ -1,0 +1,26 @@
+POST /hk-zh/shop/checkoutx/billing?_a=continueFromBillingToReview&_m=checkout.billing HTTP/1.1
+Host: secure8.store.apple.com
+Connection: keep-alive
+Content-Length: 2399
+x-aos-ui-fetch-call-1: vayvkz1k3e-muv73azh
+sec-ch-ua-platform: "Android"
+sec-ch-ua: "Android WebView";v="153", "Not_A Brand";v="8", "Chromium";v="153"
+x-aos-model-page: checkoutPage
+sec-ch-ua-mobile: ?1
+syntax: graviton
+modelVersion: v2
+x-aos-stk: j4FLvh0PmXLTlp8QV6wQoYNOHGw
+X-Requested-With: Fetch
+User-Agent: Mozilla/5.0 (Linux; Android 16; 2510DPC44G Build/BP2A.250605.031.A3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Origin: https://secure8.store.apple.com
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://secure8.store.apple.com/hk-zh/shop/checkout?_s=Billing-init
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: dssid2=bb38d161-8876-45fa-b552-ee9111aa0947; dssf=1; as_dc=ucp5; as_sfa=Mnxoay16aHxoay16aHx8emhfSEt8Y29uc3VtZXJ8aW50ZXJuZXR8MHwwfDE; geo=HK; s_fid=030F875CC47CB13C-01FB1BD403F1B6C5; as_rumid=f37d5826-14bd-4032-8bf6-f889d33a3d14; s_cc=true; shld_bt_m=Mwp_31UxBmL0AiVKqFUj8A|1791207256|MVyzAWu9ak96iXJPhDm4_w|fqFO09ZFHT7ZUt6Fui-_0iPZRn0; shld_bt_ck=jhC_ucU5ovmerKybR76Ysw|1791207264|e6pKt63Jffo8zbT3mUsX3PYyQlzFf1ak5ys1Fj4Heiz70UYY66OTJbtfgm3v72YjhaJx4KA18GB7ywDWnja7ZLgM3PWnUhP5UPN02vOWCWlcXoyWkKZ6N6049ffdCTkvfDRQT-C1Phw7X5BZ_3EK3Mnf4nXYvAZHl0SGOLrM4XvVpV41ly3EPMYyskswE9R9RvQCjp_s6QpjDs_53KFhqtlRmAg5cbvmnCn394CAXoRcfod19Wlo-v5_bLsktJJs6wcFwoI4RZf8SUlJSjxW3ptvw9h1AmcwY5DjiEDWBYiPzS4HLa49OTfwNxjzpQNFkwnqPfCl_G_cvWansLrSJSXWj4CJm7rwi0otPNRLVsh45FxvtkFgIld77EfV5n3BXcoU9dqt5X0ru7DrkJTKxQQP_l-shpEgK3ts1EHhhe_PVfXI8d5JxyqOcf82TMTYDbjvX1VD9eCT-dCTRz7nAh_VvGw5jbLP7CEcjQ9fUhO8_XSgsPEYzvh6Xw6tYRSlzifZcrhf2HVv7by42HNPkw|RP00pCCHQObXYWjtSdZC7bnnW3o; as_loc=c5f04e4099ab2335dcb6231f132c997b34033a7f7b09e9ddeef40de0f8e900083e602a39739423a1726d7d401db103ee70de9e220de62e6bbd681b8602ec6da7583f56aeb0435afab81d713fae6d88c62dc2e31e08e05152a16e70826f58bc06; as_uct=2; s_sq=applestoreww%3D%2526c.%2526a.%2526activitymap.%2526page%253DAOS%25253A%252520home%25252Fshop_iphone%25252Ffamily%25252Fiphone_18_pro%25252Fattach%2526link%253D%252528inner%252520text%252529%252520%25257C%252520no%252520href%252520%25257C%252520body%2526region%253Dbody%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c; sh_spksy=.; pxro=2; dslang=HK-ZH; site=HKG; as_pcts=efEnjRzoQ-Xmn1pv1yCTX+XylcYsvI8ImTHRX+sj0gd_K7TqLOoiOsV5qLaxTiH4IvmvntdByDvh5OLbet+r9P_rCKvtAt11cYLDAflBmLRzHsVDi-aW_qoxA2X33680D8c-7IdhsoGpXh5RGlMT98SEcvwbILd9lM4huTj_YFPvsIufuIIbGsuW1r93-FzI17fD3NeNbgY6iEOtbGf1VNLe; rtsid=%7BHK%3D%7Bt%3Da%3Bi%3DR499%3B%7D%3B%7D; as_ltn_hk-zh=AAQEAMB6czkIn1CVBkts_VPciwMC7sZM4GRluDx8ZDh1q8TkyPd6qxJ3-vVO54NxLUv4KChSqptPz9DjJyMs4HdP6D39Icnbw7g
+
+checkout.billing.billingOptions.selectBillingOption=CREDIT&checkout.billing.billingOptions.selectedBillingOptions.creditCard.billingAddress.address.street2=Bank%20Bldg&checkout.billing.billingOptions.selectedBillingOptions.creditCard.billingAddress.address.lastName=CHAN&checkout.billing.billingOptions.selectedBillingOptions.creditCard.billingAddress.address.firstName=TAI%20MAN&checkout.billing.billingOptions.selectedBillingOptions.creditCard.billingAddress.address.countryCode=HK&checkout.billing.billingOptions.selectedBillingOptions.creditCard.billingAddress.address.street=Central&checkout.billing.billingOptions.selectedBillingOptions.creditCard.cardInputs.cardInput-0.validCardNumber=true&checkout.billing.billingOptions.selectedBillingOptions.creditCard.cardInputs.cardInput-0.cardNumberForBinDetection=&checkout.billing.billingOptions.selectedBillingOptions.creditCard.cardInputs.cardInput-0.selectCardType=VISA&checkout.billing.billingOptions.selectedBillingOptions.creditCard.cardInputs.cardInput-0.securityCode=%7B%22cipherText%22%3A%22IKD35mX1CKUew78MjVgRfCG%2FojAkGtoc7lNxbzsm94n957%2FlIQ3xkjtcw6GLR61nErgOv8h%2FgEw%2FtpSWEdjBOgsFvifWRYkeK9IQCr7ThI9IpPixdfWGU%2FSYWTM8msNDgbthgx9ik3cKhPezQyLNoW55rgpHD0jaUeOtvZI7A89OB%2BM6uFWmVBVGAUycdnmooA4WHmwD5Azz%2BogXCBjAWpo%2Fg4XQjRALpk0Ew%2BejcMnVPYx1gv%2FmjxKv23xm9ASwP6wmC1miP%2FyihFzcErGdvDwxhyunN8Xj9gCJ0P45Brcxn9BU%2FngmwTshZni8HOr0b2yBkqGF0DXmr0vRTSajVw%3D%3D%22%2C%22publicKeyHash%22%3A%22DsCuZg%2B6iOaJUKt5gJMdb6rYEz9BgEsdtEXjVc77oAs%3D%22%7D&checkout.billing.billingOptions.selectedBillingOptions.creditCard.cardInputs.cardInput-0.expiration=06%2F28&checkout.billing.billingOptions.selectedBillingOptions.creditCard.cardInputs.cardInput-0.cardNumber=%7B%22cipherText%22%3A%22MWW2D4cOpfKyWDhvlXWPclYH0QA6Q6AF87vPZyunq0AvEtSDep9y7ivZQPEEIsb1chpd8SjZDDV4Pvf0MoMn6firu3zQJpvXNuyKcOVxqFFGAOcASVS7f71hwUtDgDRg0CDVflUtUOEb5tz4q%2FK%2F2dUXuhmrYnI7aQf%2FIFe7QyisHN8%2FAz7p%2BVwUCjsiwOQUaXJzLp6uPA%2FDfOvdqIJl%2BVQQKoBiT4SiWME7ztJKQ%2F3da6qRv8vipZTWB6h%2FiLmc72Yo2nssEqb3eWXkaaAPv1l35oe0OwpWupr1yrl3tnebhVAnT0Cpfbk3XKmplOLQU12ku8ojLDrB183hD1pSJQ%3D%3D%22%2C%22publicKeyHash%22%3A%22DsCuZg%2B6iOaJUKt5gJMdb6rYEz9BgEsdtEXjVc77oAs%3D%22%7D&checkout.billing.billingOptions.selectedBillingOptions.giftCard.giftCardInput.deviceID=%7B%22op%22%3A%22DEVICEID%22%7D&checkout.billing.billingOptions.selectedBillingOptions.giftCard.giftCardInput.giftCard=

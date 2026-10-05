@@ -1,0 +1,42 @@
+POST /hk-zh/shop/bagx?_a=updateQuantity&_m=shoppingCart.items.item-e15844bf-b205-47f4-8536-d8db3eb50e92.itemQuantity h2
+Host: www.apple.com
+content-length: 84
+x-aos-ui-fetch-call-1: xk56rvd08s-muv6jokh
+sec-ch-ua-platform: "Android"
+sec-ch-ua: "Android WebView";v="153", "Not_A Brand";v="8", "Chromium";v="153"
+x-aos-model-page: cart
+sec-ch-ua-mobile: ?1
+syntax: graviton
+modelversion: v2
+x-aos-stk: 1w4Ht6RoodeSjhKQE4XXeRHObsrEMHVgjHQl5MtBhi8
+x-requested-with: Fetch
+user-agent: Mozilla/5.0 (Linux; Android 16; 2510DPC44G Build/BP2A.250605.031.A3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36
+content-type: application/x-www-form-urlencoded
+accept: */*
+origin: https://www.apple.com
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://www.apple.com/hk-zh/shop/bag
+accept-encoding: gzip, deflate, br, zstd
+accept-language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7
+cookie: dssid2=bb38d161-8876-45fa-b552-ee9111aa0947
+cookie: dssf=1
+cookie: as_pcts=Nzf:JaQ2IemyxHfYwk:97PSipHz_A-O0S1+X658txd5uh4Ug082auc6IH+tXtZ-2VXPYtwC-_qzNK4GHP_xAjAJFAo8w:7E5YFbwm75wi7eoIZ38Jd69:LbuvtrwH+_6USQj9qc:tFfxTzBWiPFJ1w4T:ar4ek7Im7nOnB3_Mz0m-3H-EcRzdRT3xtCYRMyw9l
+cookie: as_dc=ucp5
+cookie: as_sfa=Mnxoay16aHxoay16aHx8emhfSEt8Y29uc3VtZXJ8aW50ZXJuZXR8MHwwfDE
+cookie: geo=HK
+cookie: s_fid=030F875CC47CB13C-01FB1BD403F1B6C5
+cookie: as_rumid=f37d5826-14bd-4032-8bf6-f889d33a3d14
+cookie: s_cc=true
+cookie: shld_bt_m=Mwp_31UxBmL0AiVKqFUj8A|1791207256|MVyzAWu9ak96iXJPhDm4_w|fqFO09ZFHT7ZUt6Fui-_0iPZRn0
+cookie: sh_spksy=.
+cookie: shld_bt_ck=jhC_ucU5ovmerKybR76Ysw|1791207264|e6pKt63Jffo8zbT3mUsX3PYyQlzFf1ak5ys1Fj4Heiz70UYY66OTJbtfgm3v72YjhaJx4KA18GB7ywDWnja7ZLgM3PWnUhP5UPN02vOWCWlcXoyWkKZ6N6049ffdCTkvfDRQT-C1Phw7X5BZ_3EK3Mnf4nXYvAZHl0SGOLrM4XvVpV41ly3EPMYyskswE9R9RvQCjp_s6QpjDs_53KFhqtlRmAg5cbvmnCn394CAXoRcfod19Wlo-v5_bLsktJJs6wcFwoI4RZf8SUlJSjxW3ptvw9h1AmcwY5DjiEDWBYiPzS4HLa49OTfwNxjzpQNFkwnqPfCl_G_cvWansLrSJSXWj4CJm7rwi0otPNRLVsh45FxvtkFgIld77EfV5n3BXcoU9dqt5X0ru7DrkJTKxQQP_l-shpEgK3ts1EHhhe_PVfXI8d5JxyqOcf82TMTYDbjvX1VD9eCT-dCTRz7nAh_VvGw5jbLP7CEcjQ9fUhO8_XSgsPEYzvh6Xw6tYRSlzifZcrhf2HVv7by42HNPkw|RP00pCCHQObXYWjtSdZC7bnnW3o
+cookie: as_loc=c5f04e4099ab2335dcb6231f132c997b34033a7f7b09e9ddeef40de0f8e900083e602a39739423a1726d7d401db103ee70de9e220de62e6bbd681b8602ec6da7583f56aeb0435afab81d713fae6d88c62dc2e31e08e05152a16e70826f58bc06
+cookie: as_uct=2
+cookie: rtsid=%7BHK%3D%7Bt%3Da%3Bi%3DR428%3B%7D%3B%7D
+cookie: as_atb=1.0|MjAyNi0xMC0wNSAwNDozOTowNg|56730bcfec210fd7aeb27e9b97131b5b48192fbe
+cookie: s_sq=applestoreww%3D%2526c.%2526a.%2526activitymap.%2526page%253DAOS%25253A%252520home%25252Fshop_iphone%25252Ffamily%25252Fiphone_18_pro%25252Fattach%2526link%253D%252528inner%252520text%252529%252520%25257C%252520no%252520href%252520%25257C%252520body%2526region%253Dbody%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c
+priority: u=1, i
+
+shoppingCart.items.item-e15844bf-b205-47f4-8536-d8db3eb50e92.itemQuantity.quantity=2

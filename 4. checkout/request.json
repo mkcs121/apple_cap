@@ -1,0 +1,31 @@
+{
+  "app": "mark.via.gp",
+  "duration": "231ms",
+  "headers": {
+    "Host": "www.apple.com",
+    "content-length": "5226",
+    "sec-ch-ua-platform": "\"Android\"",
+    "user-agent": "Mozilla/5.0 (Linux; Android 16; 2510DPC44G Build/BP2A.250605.031.A3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.8010.36 Mobile Safari/537.36",
+    "sec-ch-ua": "\"Android WebView\";v\u003d\"153\", \"Not_A Brand\";v\u003d\"8\", \"Chromium\";v\u003d\"153\"",
+    "content-type": "application/json",
+    "sec-ch-ua-mobile": "?1",
+    "accept": "*/*",
+    "origin": "https://secure8.store.apple.com",
+    "x-requested-with": "mark.via.gp",
+    "sec-fetch-site": "same-site",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-dest": "empty",
+    "referer": "https://secure8.store.apple.com/",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "accept-language": "zh-TW,zh;q\u003d0.9,en-US;q\u003d0.8,en;q\u003d0.7",
+    "cookie": "site\u003dHKG",
+    "priority": "u\u003d1, i"
+  },
+  "method": "POST",
+  "protocol": "h2",
+  "remoteIp": "23.197.225.61",
+  "remotePort": 443,
+  "sessionId": "be6c1ff5-a278-436d-a320-07b27cb17dc2",
+  "time": "2026-10-05 19:46:47",
+  "url": "https://www.apple.com/fxpmdp/ec/as/v1/api"
+}

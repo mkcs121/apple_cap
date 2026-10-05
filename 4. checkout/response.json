@@ -1,0 +1,27 @@
+{
+  "app": "mark.via.gp",
+  "code": 200,
+  "duration": "231ms",
+  "headers": {
+    "server": "Apple",
+    "content-length": "51",
+    "content-type": "application/json",
+    "set-cookie": "as_rumid\u003df37d5826-14bd-4032-8bf6-f889d33a3d14; Path\u003d/; Domain\u003d.apple.com; Max-Age\u003d1800; Expires\u003dMon, 05 Oct 2026 12:16:47 GMT; Secure; HttpOnly; SameSite\u003dStrict",
+    "access-control-allow-origin": "https://secure8.store.apple.com",
+    "cross-origin-opener-policy": "same-origin",
+    "x-xss-protection": "1; mode\u003dblock",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "strict-transport-security": "max-age\u003d31536000; includeSubdomains",
+    "access-control-allow-credentials": "true",
+    "cache-control": "max-age\u003d300",
+    "expires": "Mon, 05 Oct 2026 11:51:47 GMT",
+    "date": "Mon, 05 Oct 2026 11:46:47 GMT"
+  },
+  "message": null,
+  "protocol": "h2",
+  "remoteIp": "23.197.225.61",
+  "remotePort": 443,
+  "sessionId": "be6c1ff5-a278-436d-a320-07b27cb17dc2",
+  "time": "2026-10-05 19:46:47"
+}
